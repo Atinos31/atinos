@@ -1,1 +1,2 @@
 # atinos
+get started
